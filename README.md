@@ -45,3 +45,6 @@ The project is implemented in a Jupyter notebook and covers the following:
 2. **Setup and Installation**: Instructions for setting up the environment, including the installation of necessary Python libraries.
 3. **Implementation**: Code examples demonstrating how to implement a basic RAG model using libraries like `transformers`, `sentence-transformers`, and `datasets`.
 4. **Experiments and Results**: Testing the model with various queries and analyzing the results.
+
+## Outputs
+Outputs are accessible in [this directory](https://github.com/KamyarMoradian/RAG-Evaluation-of-Different-Generators/tree/main/outputs).
